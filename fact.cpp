@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std; 
-
+// comments added again 
 int main(){
     int ans=1, n;
     cout<<"enter the number for factorial: ";

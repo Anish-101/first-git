@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// comments added again 
 int Palindrome(int n){
     int ans=0;
 
