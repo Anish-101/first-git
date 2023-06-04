@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-// some lines added 
+
 int Hcf(int n, int m){
     int hcf=0;
    for(int i=1; i<=n && i<=m; i++){
