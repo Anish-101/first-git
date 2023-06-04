@@ -2,7 +2,7 @@
 using namespace std;
 int Palindrome(int n){
     int ans=0;
-//    some comment added in code
+
     while(n!=0){
         int digit = n%10;
         ans = ans + digit*digit*digit;

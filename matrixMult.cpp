@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// this is a sample matrix code
+
 int main()
 {
     int a[10][10], b[10][10], c[10][10];
